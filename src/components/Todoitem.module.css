@@ -1,0 +1,35 @@
+
+input{
+  width: 100%;
+}
+
+ .item-container{
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 100%;
+} 
+
+.kg-row{
+  margin: 10px 5px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.kg-button {
+  margin-left: 10px;
+  min-width: 80px;
+  padding: 5px 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading{
+
+  font-weight: bold;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
